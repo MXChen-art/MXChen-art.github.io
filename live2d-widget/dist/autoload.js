@@ -63,8 +63,7 @@ function loadExternalResource(url, type) {
     logLevel: 'warn',
     drag: false,
     mobile: {
-      show: false,
-      scale: 0.5
+      show: false
     }
   });
 })();
