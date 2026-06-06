@@ -1,8 +1,0 @@
-/* 图片懒加载淡入动画 */
-img[data-src] {
-    opacity: 0;
-    transition: opacity 0.5s ease;
-}
-img[data-src].loaded {
-    opacity: 1;
-}
